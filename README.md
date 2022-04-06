@@ -26,6 +26,6 @@ Linear regression is then run on each relationship with separate plots for the N
 ## VacationPy
 The second part of this project uses jupyter-gmaps and the Google Places API to work with weather data to plan future vacations. 
 1. Created a heat map that displays the humidity for every city from WeatherPy (Part 1).
-2. Narrowwd down the DataFrame with your ideal weather condition.
+2. Narrowed down the DataFrame with your ideal weather condition.
 3. Used Google Places API to find the first hotel for each city located within 5000 meters of the ideal vacation destination coordinates.
 4. Placed the hotels on top of the humidity heatmap with a pin containing the Hotel Name, City, and Country.
